@@ -13,8 +13,8 @@ INSTALLATION:
     N/A
 
 USAGE:
-    PROCEED TO - __________________________________
-    SAVED AT - ____________________________________
+    PROCEED TO - 
+    SAVED AT - https://github.com/Rfields03/WFH-PG/tree/main
 
 CONTRIBUTING:
     N/A
